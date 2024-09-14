@@ -1,11 +1,11 @@
-site_name: "IELTS BẰNG NIỀM TIN"
+site_name: "TONG HOP GHI CHU"
 docs_dir: ./docs/ObsidianVault/
-site_url: https://dreamielts.github.io/
+site_url: https://tonghopghichu.github.io/
 
-site_description: IELTS BẰNG NIỀM TIN
+site_description: TONG HOP GHI CHU
 site_author: haihabk51
 
-repo_url: https://github.com/dreamielts/dreamielts.github.io/
+repo_url: https://github.com/tonghopghichu/tonghopghichu.github.io
 
 
 theme:
