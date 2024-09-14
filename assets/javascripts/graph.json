@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Home_Page",
+      "symbolSize": 0,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "DASHBOARD",
+      "symbolSize": 1,
+      "value": "/DASHBOARD/"
+    },
+    {
+      "id": "2",
+      "name": "Voi vang len chu p1",
+      "symbolSize": 0,
+      "value": "/voi%20vang%20len%20chu%20p1/"
+    },
+    {
+      "id": "3",
+      "name": "16 L TEST4",
+      "symbolSize": 0,
+      "value": "/CAM16/16-L-TEST4/"
+    },
+    {
+      "id": "4",
+      "name": "16 R TEST4 1",
+      "symbolSize": 1,
+      "value": "/CAM16/16-R-TEST4-1/"
+    },
+    {
+      "id": "5",
+      "name": "01",
+      "symbolSize": 0,
+      "value": "/cambrige%20vocabulary/01/"
+    },
+    {
+      "id": "6",
+      "name": "U02",
+      "symbolSize": 0,
+      "value": "/cambrige%20vocabulary/U02/"
+    },
+    {
+      "id": "7",
+      "name": "{{title}}",
+      "symbolSize": 0,
+      "value": "/cambrige%20vocabulary/Unit01/"
+    }
+  ],
+  "links": [
+    {
+      "source": "1",
+      "target": "4"
+    }
+  ]
+}
